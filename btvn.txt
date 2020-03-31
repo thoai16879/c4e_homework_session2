@@ -79,3 +79,26 @@ bài tập 4:
 //     default:
 //         console.log("không hợp lệ");
 // }
+bài tập 5
+
+let useragain = "yes";
+//  while (useragain = "yes"){
+//      let a = prompt ("Nhập a");
+//      let b = prompt ("nhập b");
+//      let c = prompt ("Nhập c");
+//      let delta = b*b + 4*a*c;
+//      if(delta < 0){
+//          console.log("Phương trình vô nghiệm");
+//      }else if(delta == 0){
+//          console.log("Phương trình có nghiệm kép x =" + -b/2*a);
+//      }else{
+//         let x1 = (-b+Math.sqrt(delta))/2*a;
+//         let x2 = (-b-Math.sqrt(delta))/2*a;
+//          console.log("Phương trình có 2 nghiệm x1 = " + x1 + " va x2 = " + x2)
+//      }
+//     useragain = prompt ("Bạn có muốn tiếp tục? (yes/no)")
+//      if(useragain ==="no"){
+//         break;
+//     }
+//  }
+
