@@ -1,0 +1,81 @@
+
+bài số 1:
+
+ let user = Number(prompt("input the nunmber"));
+// if (user <0){
+// console.log("invalid input");
+// }
+// else if (user>0){
+//     let  x=1;
+//     let giaithua = 1;
+//     while(x<=user){
+//         giaithua*=x;
+//         x+=1;
+//     } 
+//     console.log(giaithua);
+    
+// }
+
+
+
+bài tập 2
+
+let name = prompt("input your name");
+// let age = Number(prompt("input your age"));
+// if (age<18){
+//     console.log(name + "chưa đủ tuổi vào trang web này");
+// }
+// else if (age>=18){
+//     let user = prompt (name + " có muốn tiếp tục vào trang web này không?");
+//     if (user ="yes"){
+//     console.log(name + " đã vào trang web thành công");
+//     }
+//     else if (user = "no"){
+//     console.log(name + "đã thoát khỏi trang web");
+    
+//     }
+// }
+
+
+
+bài tập 3:
+// let username = prompt("nhập vào tên");
+// let password = Number(prompt("nhập vào mật khẩu"));
+// let usename2 = "thoai";
+// let password2 = 160898;
+// if (username != usename2 || password != password2){
+//     console.log("đăng nhập không thành công");
+// }
+// else if (username === usename2 && password === password2){
+//     console.log("đăng nhập thành công");
+   
+// }
+
+bài tập 4:
+
+// let name = prompt("nhập vào tên của bạn");
+// let month = Number(prompt("nhập vào tháng sinh của bạn"));
+// switch(month){
+//     case 1:
+//     case 2:
+//     case 3:
+//         console.log("bạn sinh vào mùa xuân");
+//     break;
+//     case 4:
+//     case 5:
+//     case 6:
+//         console.log("bạn sinh vào mùa hạ");
+//     break;
+//     case 7:
+//     case 8:
+//     case 9:
+//         console.log("bạn sinh vào mùa thu");
+//     break;
+//     case 10:
+//     case 11:
+//     case 12:
+//         console.log("bạn sinh vào mùa đông");    
+//     break;
+//     default:
+//         console.log("không hợp lệ");
+// }
